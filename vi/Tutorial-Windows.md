@@ -19,7 +19,7 @@ Hệ điều hành khác: [macOS](Tutorial-macOS.md) - [Linux](Tutorial-Linux.md
 
 ### Node.js
 
-[Node.js](https://nodejs.org/en) là một môi trường server để viết các ứng dụng bằng ngôn ngữ Javascript. Nest.js làm framework chạy trên Node.js.
+[Node.js](https://nodejs.org/en) là một môi trường server để viết các ứng dụng bằng ngôn ngữ Javascript. Nest.js là framework chạy trên Node.js.
 
 Để cài đặt Node.js:
 
