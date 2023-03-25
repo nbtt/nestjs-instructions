@@ -1,3 +1,5 @@
+English - [Tiếng Việt](Readme.md)
+
 # Guide to install and get started with Nest.js
 
 Nest.js is one of the Node.js framework that helps building scalable backend system quickly and efficiently.

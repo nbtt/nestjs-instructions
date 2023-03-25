@@ -1,3 +1,5 @@
+Tiếng Việt - [English](Readme.en.md)
+
 # Hướng dẫn cài đặt và sử dụng Nest.js
 
 Nest.js là một trong những Node.js framework, nhằm giúp việc xây dựng các hệ thống backend nhanh chóng, hiệu quả và dễ dàng mở rộng trong tương lai.
