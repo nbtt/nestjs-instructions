@@ -2,7 +2,7 @@
 
 Nest.js là một trong những Node.js framework, nhằm giúp việc xây dựng các hệ thống backend nhanh chóng, hiệu quả và dễ dàng mở rộng trong tương lai.
 
-Với người mới bắt đầu, việc cài đặt để chạy được và sử dụng Nestjs có thể tốn nhiều thời gian, do đó, tài liệu này sẽ hướng dẫn ngắn gọn cách cài đặt Node.js và Nest.js, cùng với một số công cụ để hỗ trợ việc xây dựng hệ  thống backend, chẳng hạn như Postman để kiểm thử API. Cuối tài liệu bao gồm cách khởi tạo và làm việc với dự án Nest.js.
+Với người mới bắt đầu, việc cài đặt để chạy được và sử dụng Nest.js có thể tốn nhiều thời gian, do đó, tài liệu này sẽ hướng dẫn ngắn gọn cách cài đặt Node.js và Nest.js, cùng với một số công cụ để hỗ trợ việc xây dựng hệ  thống backend, chẳng hạn như Postman để kiểm thử API. Cuối tài liệu bao gồm cách khởi tạo và làm việc với dự án Nest.js.
 
 ## Mục lục
 
