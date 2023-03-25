@@ -1,3 +1,5 @@
+![Language](../images/language-icon.png) English - [Tiếng Việt](../vi/Tutorial-Windows.md)
+
 # Install Nest.js and related softwares
 
 This document is for Windows.

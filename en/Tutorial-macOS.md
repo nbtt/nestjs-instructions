@@ -1,3 +1,5 @@
+![Language](../images/language-icon.png) English - [Tiếng Việt](../vi/Tutorial-macOS.md)
+
 # Install Nest.js and related softwares
 
 This document is for macOS.

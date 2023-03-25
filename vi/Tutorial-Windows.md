@@ -1,3 +1,5 @@
+![Ngôn ngữ](../images/language-icon.png) Tiếng Việt - [English](../en/Tutorial-Windows.md)
+
 # Cài đặt Nest.js và các phần mềm liên quan
 
 Tài liệu dành cho Windows.

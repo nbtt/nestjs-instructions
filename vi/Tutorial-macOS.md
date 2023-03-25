@@ -1,3 +1,5 @@
+![Ngôn ngữ](../images/language-icon.png) Tiếng Việt - [English](../en/Tutorial-macOS.md)
+
 # Cài đặt Nest.js và các phần mềm liên quan
 
 Tài liệu dành cho macOS.
