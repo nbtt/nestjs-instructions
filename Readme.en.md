@@ -4,7 +4,7 @@ English - [Tiếng Việt](Readme.md)
 
 Nest.js is one of the Node.js framework that helps building scalable backend system quickly and efficiently.
 
-For beginners, it can takes a long time to install and learn how to use Nest.js. Therefore, this document will guide you how to install Node.js, Nest.js and some tools that helps building backend system, e.g. Postman for testing API. At the end of the document, there are also instructions to intialize and get started on a new project.
+For beginners, it can takes a long time to install and learn how to use Nest.js. Therefore, this document will guide you how to install Node.js, Nest.js and some tools that helps building backend system, e.g. Postman for testing API. At the end of the document, there are also instructions to initialize and get started on a new project.
 
 ## Table of contents
 
