@@ -36,7 +36,7 @@ cd my-nest-project
 npm run start:dev
 ```
 
-Access to http://localhost:3000 on browser to view the running application.
+Access to <http://localhost:3000> on browser to view the running application.
 
 ### Create a module
 
