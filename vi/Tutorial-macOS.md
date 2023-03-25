@@ -68,7 +68,7 @@ nest --version
 
 [Postman](https://www.postman.com/) là công cụ để thao tác với API, nhằm mục đích kiểm thử và xây dựng API.
 
-![Source: postman.com](../images/postman-product-screen.svg)
+![Postman](../images/postman-product-screen.svg "Nguồn: postman.com")
 
 Để cài đặt công cụ:
 
