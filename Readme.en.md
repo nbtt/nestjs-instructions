@@ -36,7 +36,7 @@ cd my-nest-project
 npm run start:dev
 ```
 
-Access to <http://localhost:3000> on browser to view the running application.
+Access to [http://localhost:3000](http://localhost:3000) on browser to view the running application.
 
 ### Create a module
 
@@ -104,7 +104,7 @@ nest g res my-resource
 
 ## Reference links
 
-- Nest.js documentation: https://docs.nestjs.com/
-- Nest.js video tutorial: https://youtu.be/F_oOtaxb0L8
-- Details of Nest CLI: https://docs.nestjs.com/cli/usages
-- Tutorial to deploy a Node.js project: https://youtu.be/4Ga4c_amvY8
+- Nest.js documentation: [https://docs.nestjs.com/](https://docs.nestjs.com/)
+- Nest.js video tutorial: [https://youtu.be/F_oOtaxb0L8](https://youtu.be/F_oOtaxb0L8)
+- Details of Nest CLI: [https://docs.nestjs.com/cli/usages](https://docs.nestjs.com/cli/usages)
+- Tutorial to deploy a Node.js project: [https://youtu.be/4Ga4c_amvY8](https://youtu.be/4Ga4c_amvY8)
