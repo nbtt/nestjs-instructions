@@ -36,7 +36,7 @@ cd my-nest-project
 npm run start:dev
 ```
 
-Truy cập http://localhost:3000 trên trình duyệt để xem ứng dụng đã được chạy.
+Truy cập [http://localhost:3000](http://localhost:3000) trên trình duyệt để xem ứng dụng đã được chạy.
 
 ### Tạo một module
 
@@ -104,7 +104,7 @@ nest g res my-resource
 
 ## Liên kết tham khảo
 
-- Trang documentation của Nest.js: https://docs.nestjs.com/
-- Video hướng dẫn Nest.js: https://youtu.be/F_oOtaxb0L8
-- Chi tiết về Nest CLI: https://docs.nestjs.com/cli/usages
-- Hướng dẫn triển khai dự án Node.js: https://youtu.be/4Ga4c_amvY8
+- Trang documentation của Nest.js: [https://docs.nestjs.com/](https://docs.nestjs.com/)
+- Video hướng dẫn Nest.js: [https://youtu.be/F_oOtaxb0L8](https://youtu.be/F_oOtaxb0L8)
+- Chi tiết về Nest CLI: [https://docs.nestjs.com/cli/usages](https://docs.nestjs.com/cli/usages)
+- Hướng dẫn triển khai dự án Node.js: [https://youtu.be/4Ga4c_amvY8](https://youtu.be/4Ga4c_amvY8)
