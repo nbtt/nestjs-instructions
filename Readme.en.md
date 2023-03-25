@@ -1,4 +1,4 @@
-English - [Tiếng Việt](Readme.md)
+![Language](images/language-icon.png) English - [Tiếng Việt](Readme.md)
 
 # Guide to install and get started with Nest.js
 
