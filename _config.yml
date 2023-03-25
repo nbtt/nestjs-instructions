@@ -12,3 +12,6 @@ include:
   - vi/Tutorial-Windows.md
   - vi/Tutorial-Linux.md
   - vi/Tutorial-macOS.md
+  - en/Tutorial-Windows.md
+  - en/Tutorial-Linux.md
+  - en/Tutorial-macOS.md
