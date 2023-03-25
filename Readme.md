@@ -20,7 +20,7 @@ Với người mới bắt đầu, việc cài đặt để chạy được và 
 
 ## Cài đặt Nest.js và các phần mềm liên quan
 
-Chọn hệ điều hành bạn đang sử dụng: [Windows](os/Tutorial-Windows.md) - [Linux](os/Tutorial-Linux.md) - [macOS](os/Tutorial-macOS.md)
+Chọn hệ điều hành bạn đang sử dụng: [Windows](vi/Tutorial-Windows.md) - [Linux](vi/Tutorial-Linux.md) - [macOS](vi/Tutorial-macOS.md)
 
 ## Bắt đầu sử dụng Nest.js
 
@@ -107,4 +107,4 @@ nest g res my-resource
 - Trang documentation của Nest.js: https://docs.nestjs.com/
 - Video hướng dẫn Nest.js: https://youtu.be/F_oOtaxb0L8
 - Chi tiết về Nest CLI: https://docs.nestjs.com/cli/usages
-- Hướng dẫn triển khai dự án Nest.js: 
+- Hướng dẫn triển khai dự án Node.js: https://youtu.be/4Ga4c_amvY8
